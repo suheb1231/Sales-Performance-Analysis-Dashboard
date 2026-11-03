@@ -12,7 +12,7 @@ It enables stakeholders to monitor business performance, identify revenue-genera
 - Analyze monthly and quarterly sales trends.
 - Support data-driven business decision-making.
 ## 📊 Dashboard Preview
-dashboard.png
+![Sales Performance Dashboard](./dashboard_preview.png)
 ## 💡 Key Performance Indicators (KPIs)
 The dashboard tracks the following business metrics:
 | KPI | Value |
